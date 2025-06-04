@@ -124,7 +124,6 @@ export default function AIConfigForm() {
                   {state.data.estimatedImpact}
                 </AlertDescription>
               </Alert>
-            </Alert>
             )}
           </CardContent>
         </Card>
